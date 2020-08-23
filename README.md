@@ -1,4 +1,10 @@
-### Hi there 👋
+### I'm *probably* epidem7c.
+I'll probably be inactive, but because of the gods of GitHub, I present you my shopping list.
+
+- I'm currently working on: a supreme JavaScript randomizer and a website: http://epidem7c.epizy.com/
+- I'm currently learning: how to code. In general.
+- I'm looking to collaborate on: no.
+- Fun fact: the mitochondria is the powerhouse of the cell.
 
 <!--
 **hyperekt/hyperekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
